@@ -250,7 +250,7 @@ export default () => {
 
                   <List.Item> (613) 663-4768</List.Item>
 
-                  <List.Item>chika@cmbaconsulting.ca</List.Item>
+                  <List.Item>info@cmbaconsulting.ca</List.Item>
                 </StyledList>
               </Transition>
             </StyledListContainer>
